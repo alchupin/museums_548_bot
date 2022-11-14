@@ -1,0 +1,15 @@
+2022-10-07T11:51:06.446511+0300 DEBUG 'NoneType' object has no attribute 'split'
+2022-10-07T11:51:46.642586+0300 DEBUG По указанному пути "/у5555555 " уже существует папка с таким именем. (Specified path "/у5555555 " points to existent directory. / DiskPathPointsToExistentDirectoryError)
+2022-10-07T11:51:46.643447+0300 INFO User with id=55954649 and username=Alchemical try to upload photo.
+2022-10-07T11:51:47.324200+0300 INFO {'href': 'https://cloud-api.yandex.net/v1/disk/operations/f2a2ec38a86a867c1dacfd75a94333ad439d2c87a617631c6937fe42b2c8f267', 'method': 'GET', 'templated': False}
+2022-10-07T11:58:20.068377+0300 INFO User with id=55954649 and username=Alchemical try to upload a document that is not an image (mime_base=application).
+2022-10-07T11:58:53.578825+0300 DEBUG 'NoneType' object has no attribute 'split'
+2022-10-08T01:57:07.024591+0300 DEBUG User with id=55954649 and username=Alchemical try to upload photo.
+2022-10-08T01:57:07.390183+0300 DEBUG {'href': 'https://cloud-api.yandex.net/v1/disk/operations/eedfbc7888732bc0e8119acce8a40ee55260f780f1da62ce8c36dd169fac8631', 'method': 'GET', 'templated': False}
+2022-10-26T16:48:52.065690+0300 ERROR 'NoneType' object has no attribute 'split'
+2022-10-26T16:49:20.961081+0300 ERROR 'NoneType' object has no attribute 'split'
+2022-10-26T16:49:48.587415+0300 DEBUG User with id=1609142587 and username=stn1618 try to upload text.
+2022-10-26T16:50:15.566082+0300 DEBUG User with id=1609142587 and username=stn1618 try to upload text.
+2022-10-26T16:50:15.777468+0300 ERROR 'NoneType' object has no attribute 'split'
+2022-10-26T16:50:37.141860+0300 ERROR not enough values to unpack (expected 4, got 2)
+2022-10-26T16:51:15.555859+0300 ERROR not enough values to unpack (expected 4, got 2)
